@@ -31,8 +31,8 @@ Find the pairwise correlation of all columns in the dataframe.corr()
 Save the final data set into the file
 
 ## PROGRAM :
-### NAME : ROSHINI R K
-### REG NO : 212222230123
+NAME : ROSHINI R K
+REG NO : 212222230123
 
  DIABETES.CSV :
 ```
